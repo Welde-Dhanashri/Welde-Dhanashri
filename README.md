@@ -1,10 +1,11 @@
-Hello, I'm Dhanashri Pramod Welde 👋 An MCA graduate and an enthusiastic Data Science student who loves diving into the world of data and machine learning. I enjoy tackling real-world challenges through data-driven solutions and continuously exploring emerging trends in AI and analytics.
+Welde-Dhanashri/README.md
 
-About Me 🎓 Currently learning Data Science at Imarticus Learning Pune. 🔢 Passionate about machine learning, statistical analysis, and data visualization. 💻 Proficient in Python, Pandas, NumPy, scikit-learn, and Matplotlib. 👨‍💻 Constantly upgrading my skills with SQL, and Power BI. 🤖 Engaged in ML projects to gain hands-on experience with different algorithms.
+Hello, I'm Dhanashri Pramod Welde 👋 A Data Science and Analytics graduate who is passionate about extracting insights from data and building real-world AI solutions. I love solving business problems using data-driven approaches and constantly learning the latest trends in analytics and artificial intelligence.
 
-What I’m Working On 🌱 Developing data science projects such as: Predictive modeling for various datasets. Performing Exploratory Data Analysis (EDA) using Python. Building ML models for classification and regression. 📊 Enhancing my skills in data visualization.
+About Me 🎓Recently completed the Data Science & Analytics program from Imarticus Learning Pune.📊 Exploring roles as a **Data Analyst, Business Analyst, and Junior Data Scientist**.💡Passionate about data analysis, machine learning, business intelligence, and storytelling through data.📌 Proficient in Python, Pandas, NumPy, scikit-learn, SQL, Power BI, and Matplotlib.🚀 Currently learning Streamlit for project deployment and exploring LLMs (Large Language Models) and AI-based chatbot development.👩‍💻 Continuously upskilling to build impactful and production-ready data solutions.
 
-Goals 🚀 Want to learn deep learning and advanced machine learning and apply my expertise to real-world scenarios after completing my course. Aiming to transition into a Data Scientist role. 🤝 Interested in contributing to open-source data science initiatives.
+What I’m Working On 🌱🔹 Developing end-to-end projects involving EDA, ML modeling, and dashboard creation.🔹 Learning how to deploy ML models using Streamlit for interactive data apps.🔹 Experimenting with Generative AI and Chatbot projects using LLMs.📚 Enhancing my data storytelling skills through visualizations and real-world problem solving.
 
-How to Reach Me 📧 Email: [dhanashriwelde8@gmail.com](mailto\:dhanashriwelde8@gmail.com) 💼 LinkedIn: [www.linkedin.com/in/dhanashri-welde](http://www.linkedin.com/in/dhanashri-welde)
+Goals 🎯 Apply my learnings to real-world analytics and AI applications.💼 Transition into a professional role in Data Science, Data Analytics, or Business Analysis.🤝 Contribute to impactful, open-source projects and collaborate with the data science community.  
 
+How to Reach Me 📧 Email: dhanashriwelde18@gmail.com  🔗 LinkedIn: [www.linkedin.com/in/dhanashri-welde](https://www.linkedin.com/in/dhanashri-welde)
