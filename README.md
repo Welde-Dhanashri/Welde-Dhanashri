@@ -1,5 +1,3 @@
-Welde-Dhanashri/README.md
-
 Hello, I'm Dhanashri Pramod Welde 👋 A Data Science and Analytics graduate who is passionate about extracting insights from data and building real-world AI solutions. I love solving business problems using data-driven approaches and constantly learning the latest trends in analytics and artificial intelligence.
 
 About Me 🎓Recently completed the Data Science & Analytics program from Imarticus Learning Pune.📊 Exploring roles as a **Data Analyst, Business Analyst, and Junior Data Scientist**.💡Passionate about data analysis, machine learning, business intelligence, and storytelling through data.📌 Proficient in Python, Pandas, NumPy, scikit-learn, SQL, Power BI, and Matplotlib.🚀 Currently learning Streamlit for project deployment and exploring LLMs (Large Language Models) and AI-based chatbot development.👩‍💻 Continuously upskilling to build impactful and production-ready data solutions.
